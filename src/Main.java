@@ -37,7 +37,6 @@ class ATM {
             depositMoney();
         }
         else if(opt==4){
-            return;
         }
         else{
             System.out.println("Enter valid number");
